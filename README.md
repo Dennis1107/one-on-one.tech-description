@@ -4,6 +4,9 @@
 
 :warning: Currently I am not willing to share the code. This repository should show what the project is, how I approached to problem and give some insights into the technical development
 
+:warning: The project is abandoned and not live anymore from November 2022.
+
+
 # How it started
 At the beginning of 2020 during the start of covid I had some free time as our company was closed for 2 weeks. I used the time to deepen my skills in Django & Frontend Development. At the end of the Udemy course there was a capstone project. Only following this project was a bit boring to me so I started my own project. 
 
@@ -30,7 +33,11 @@ I use Django as my Backend with a PostgreSQL hosted on Heroku. On the Frontend I
 # Future:
 After investing quite some time in this project I want to validate this idea in public in order to get feedback. My actual goal is to implement this in larger companies for networking between employees. I feel like there is great potential for this as the networking possibilities in large enterprises are very poor (Please challenge me on this assumption).
 
-# Use
-If you don’t want to register yourself then feel free to use these credentials for testing:
-mail: sus_testuser@gmail.com
-pw: awsomesus
+# Demo
+Demo Video: https://www.dropbox.com/s/erzdsdt14fdks1z/VID_20221030_140113.mp4?dl=0
+
+<img src="assets/landing_page1.PNG" width=50% height=50%>
+<img src="assets/landing_page2.PNG" width=50% height=50%>
+<img src="assets/welcome.PNG" width=50% height=50%>
+<img src="assets/oneonone.PNG" width=50% height=50%>
+<img src="assets/upcommingoneonone.PNG" width=50% height=50%>
