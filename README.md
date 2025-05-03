@@ -10,8 +10,7 @@ At the beginning of 2020 during the start of covid I had some free time as our c
 
 # Problem:
 I hate the traditional way of networking and I bet many of you too. Too often I found myself in networking situations with other people but couldn't get much value out of it. After thinking about it for quite some time I ended up with 3 reasons:
-Lack of common interests: 
-* Working as a technical person in a business department I usually have a counterpart who has completely different interests than me. Even though it is still nice to learn about other topics I couldn’t expand my network with people where I could benefit from (and the other way around).
+* Lack of common interests: Working as a technical person in a business department I usually have a counterpart who has completely different interests than me. Even though it is still nice to learn about other topics I couldn’t expand my network with people where I could benefit from (and the other way around).
 * Approaching people can be awkward: This counts for real life situations as well for online situations. Do people actively network via Linkedin?
 * Networking in groups: Often when I was in a networking situation, I was in a medium sized group of people with extremely unpersonal conversations. 
 
