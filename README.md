@@ -22,11 +22,13 @@ My main goal is to bring together the right people and raise the quality of netw
 # Technical Implementation:
 I use Django as my Backend with a PostgreSQL hosted on Heroku. On the Frontend I use HTML, CSS and Javascript (Vanilla & Jquery). I implemented a very basic Service Worker in order to provide a PWA.
 For the video chatting I used Jitsi.
-<img src="https://upload.wikimedia.org/wikipedia/de/0/0e/Django-logo.svg" width=10% height=10%>
-<img src="https://upload.wikimedia.org/wikipedia/de/thumb/4/4b/Postgresql.svg/1200px-Postgresql.svg.png" width=10% height=10%>
-<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/Heroku_logo.svg/2560px-Heroku_logo.svg.png" width=10% height=10%>
-<img src="https://miro.medium.com/max/5120/1*l4xICbIIYlz1OTymWCoUTw.jpeg" width=10% height=10%>
-<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/Progressive_Web_Apps_Logo.svg/1200px-Progressive_Web_Apps_Logo.svg.png" width=10% height=10%>
+* Backend: Django <img src="https://upload.wikimedia.org/wikipedia/de/0/0e/Django-logo.svg" width=10% height=10%>
+* Frontend: HTML, Vanilla JS, Bootstrap CSS <img src="https://miro.medium.com/max/5120/1*l4xICbIIYlz1OTymWCoUTw.jpeg" width=10% height=10%>
+* PWA mobile: <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/Progressive_Web_Apps_Logo.svg/1200px-Progressive_Web_Apps_Logo.svg.png" width=10% height=10%>
+* Database: Postgresql <img src="https://upload.wikimedia.org/wikipedia/de/thumb/4/4b/Postgresql.svg/1200px-Postgresql.svg.png" width=10% height=10%>
+* Hosting: Heroku <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/Heroku_logo.svg/2560px-Heroku_logo.svg.png" width=10% height=10%>
+* Monitoring: New relic 
+* Others: Sendgrid as Email service, Jitsi for video sessions, Namecheap for domain services & cloudinary for image hosting
 
 # Deployment:
 I knew from the beginning that this needs to be a B2B project and not a B2C. The idea was to implement this as a SaaS in multiple companies. I spent a lot of time in building the product (it was my first Django project so it took me some time to build and learn on the fly). After a first working product was ready, I thought about the distribution process. For me the most important thing is to find a company who is willing to just try it out together with me. Very fast I learned the hard way that implementing something in a company is not that easy as it sounds. You have to follow a lot of rules and processes before this can be deployed. 
